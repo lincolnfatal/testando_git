@@ -1,7 +1,11 @@
 <?php
 
-echo "Testando git"
 
-echo "Teste Realizado";
+
+
+
+
+
+echo "Bom dia! \n Hoje é dia: ".Date('d');
 
 ?>
