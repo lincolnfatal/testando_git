@@ -1,4 +1,4 @@
 <?php
 
-echo "Bom dia";
+echo "Bom dia!";
 ?>
