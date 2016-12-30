@@ -1,5 +1,5 @@
 <?php
-echo "Bom dia! \n Hoje é dia: ".Date('d');
+echo "Bom dia! \n Hoje é o dia: ".Date('d');
 
 
 
