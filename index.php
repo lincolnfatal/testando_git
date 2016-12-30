@@ -1,0 +1,4 @@
+<?php
+
+echo "Testando git"
+?>
